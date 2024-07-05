@@ -12,3 +12,6 @@ Cryptonium is a comprehensive cryptocurrency website that provides real-time tra
 - **Tailwind CSS**: For styling the application with utility-first CSS framework.
 - **JavaScript**: Core programming language used for functionality.
 - **HTML & CSS**: Markup and styling languages used alongside Tailwind CSS.
+
+## Live Demo
+Check out the live demo of cryptonium [here](https://cryptonium-spartans.netlify.app/).
